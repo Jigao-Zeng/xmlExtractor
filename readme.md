@@ -1,9 +1,14 @@
-To run exercise1,  
-Install node.js,  
-Navigate into the Exercise1 folder by `cd Exercise1`.  
-Then run `node extract.js`.
+First install `node.js`  
 
-To run exercise2,  
+To run Exercise 1:    
+  
+Navigate into the Exercise1 folder by `cd Exercise1`  
+Install the packages using `npm install`  
+Type `node extract.js` in terminal    
+The formatted_output.json file is the result.
+
+To run Exercise 2:  
+
 Navigate into the Exercise2 folder,  
 Run `node tempChecker.js` in the terminal.  
 Enter the number of temperatures, press enter.  
